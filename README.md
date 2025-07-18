@@ -14,7 +14,7 @@ To identify and visualize the top industries with the highest supply chain GHG e
 - Google Colab
 
 ## 🔍 What’s Included
-- `Week1_GHG_Analysis.ipynb` – Jupyter notebook with code to load, process, and visualize the dataset.
+- `Week1_GHG_Analysis.ipynb` – Colab notebook with code to load, process, and visualize the dataset.
 - `SupplyChainEmissionFactorsforUSIndustriesCommodities2015_Summary.csv` – Dataset used for the analysis.
 
 ## ✅ Key Insights
