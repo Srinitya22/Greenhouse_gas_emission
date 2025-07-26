@@ -27,3 +27,22 @@ To identify and visualize the top industries with the highest supply chain GHG e
 - Used clear visualizations with titles and axis formatting.
 - Organized code into logical, readable sections.
 
+---
+
+## 🌱 Week 2 Progress – Model Building & Evaluation
+
+Trained and fine-tuned a Random Forest Regressor using industry-level GHG emission data. Scaled features, evaluated performance using RMSE and R², and saved the best model for future predictions.
+
+### 🔧 Tools/Libraries Added
+
+* Scikit-learn
+* Joblib
+* StandardScaler
+* GridSearchCV
+
+### ✅ Achievements
+
+* Cleaned and preprocessed numeric features.
+* Tuned hyperparameters using GridSearchCV (best: `n_estimators=200`, `max_depth=10`).
+* Evaluated model performance (R², RMSE).
+* Exported final model and scaler with Joblib.
