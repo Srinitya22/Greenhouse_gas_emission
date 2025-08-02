@@ -52,8 +52,8 @@ To build a regression-based predictive model that estimates supply chain emissio
 
 After training and tuning, the best-performing model (Random Forest Regressor) achieved the following results on the test set:
 
-* **Root Mean Squared Error (RMSE):** `0.0791`
-* **R² Score:** `0.8888`
+* **Root Mean Squared Error (RMSE):** 0.0791
+* **R² Score:** 0.8888
 
 These metrics demonstrate strong predictive performance and effective generalization to unseen data.
 
