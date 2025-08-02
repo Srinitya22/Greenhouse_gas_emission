@@ -54,8 +54,8 @@ After training and tuning, the best-performing model (Random Forest Regressor) a
 
 * **Root Mean Squared Error (RMSE):** 0.0791
 * **R² Score:** 0.8888
-
-These metrics demonstrate strong predictive performance and effective generalization to unseen data.
+  
+ These results indicate strong predictive accuracy and low error, confirming that the model generalizes well to unseen data
 
 ---
 
