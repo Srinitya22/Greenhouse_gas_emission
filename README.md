@@ -98,4 +98,3 @@ ECE (AIML), GITAM (Deemed to be University)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 * [Seaborn Documentation](https://seaborn.pydata.org/)
 * EPA Supply Chain Emission Factors Dataset (2010–2016)
-* Industry best practices in sustainable supply chain management
